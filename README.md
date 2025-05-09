@@ -2,4 +2,3 @@
 
 ## Arrays
 
-*** Question 1
