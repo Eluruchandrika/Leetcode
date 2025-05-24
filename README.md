@@ -35,4 +35,20 @@
 | ------- |
 | [0231-power-of-two](https://github.com/Eluruchandrika/Leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Eluruchandrika/Leetcode/tree/master/0342-power-of-four) |
+## Two Pointers
+|  |
+| ------- |
+| [0874-backspace-string-compare](https://github.com/Eluruchandrika/Leetcode/tree/master/0874-backspace-string-compare) |
+## String
+|  |
+| ------- |
+| [0874-backspace-string-compare](https://github.com/Eluruchandrika/Leetcode/tree/master/0874-backspace-string-compare) |
+## Stack
+|  |
+| ------- |
+| [0874-backspace-string-compare](https://github.com/Eluruchandrika/Leetcode/tree/master/0874-backspace-string-compare) |
+## Simulation
+|  |
+| ------- |
+| [0874-backspace-string-compare](https://github.com/Eluruchandrika/Leetcode/tree/master/0874-backspace-string-compare) |
 <!---LeetCode Topics End-->
