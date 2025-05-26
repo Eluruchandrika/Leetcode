@@ -38,10 +38,12 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/Eluruchandrika/Leetcode/tree/master/0344-reverse-string) |
 | [0874-backspace-string-compare](https://github.com/Eluruchandrika/Leetcode/tree/master/0874-backspace-string-compare) |
 ## String
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/Eluruchandrika/Leetcode/tree/master/0344-reverse-string) |
 | [0874-backspace-string-compare](https://github.com/Eluruchandrika/Leetcode/tree/master/0874-backspace-string-compare) |
 ## Stack
 |  |
