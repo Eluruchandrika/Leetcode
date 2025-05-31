@@ -1,10 +1,10 @@
 class Solution(object):
     def findDuplicates(self, nums):
+        arr = [0]*(len(nums)+1)
         res = []
-        for i in range(len(nums)):
-            index = abs(nums[i]) - 1
-            if nums[index] < 0:
-                res.append(abs(nums[i]))
+        for num in nums:
+            if(arr[num]>0):
+                res.append(num)
             else:
-                nums[index] *= -1
+                arr[num]=1
         return res
