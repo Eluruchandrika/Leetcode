@@ -8,6 +8,7 @@
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Eluruchandrika/Leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Eluruchandrika/Leetcode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Eluruchandrika/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Eluruchandrika/Leetcode/tree/master/0326-power-of-three) |
@@ -34,6 +35,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Eluruchandrika/Leetcode/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/Eluruchandrika/Leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Eluruchandrika/Leetcode/tree/master/0342-power-of-four) |
 ## Two Pointers
@@ -46,6 +48,7 @@
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Eluruchandrika/Leetcode/tree/master/0008-string-to-integer-atoi) |
+| [0067-add-binary](https://github.com/Eluruchandrika/Leetcode/tree/master/0067-add-binary) |
 | [0344-reverse-string](https://github.com/Eluruchandrika/Leetcode/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Eluruchandrika/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0874-backspace-string-compare](https://github.com/Eluruchandrika/Leetcode/tree/master/0874-backspace-string-compare) |
@@ -56,6 +59,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Eluruchandrika/Leetcode/tree/master/0067-add-binary) |
 | [0874-backspace-string-compare](https://github.com/Eluruchandrika/Leetcode/tree/master/0874-backspace-string-compare) |
 ## Binary Search
 |  |
