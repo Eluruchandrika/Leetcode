@@ -41,6 +41,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Eluruchandrika/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0344-reverse-string](https://github.com/Eluruchandrika/Leetcode/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Eluruchandrika/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0874-backspace-string-compare](https://github.com/Eluruchandrika/Leetcode/tree/master/0874-backspace-string-compare) |
@@ -48,6 +49,7 @@
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Eluruchandrika/Leetcode/tree/master/0008-string-to-integer-atoi) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Eluruchandrika/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/Eluruchandrika/Leetcode/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/Eluruchandrika/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Eluruchandrika/Leetcode/tree/master/0344-reverse-string) |
@@ -89,6 +91,7 @@
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Eluruchandrika/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0812-rotate-string](https://github.com/Eluruchandrika/Leetcode/tree/master/0812-rotate-string) |
 | [1508-longest-happy-prefix](https://github.com/Eluruchandrika/Leetcode/tree/master/1508-longest-happy-prefix) |
 ## Rolling Hash
