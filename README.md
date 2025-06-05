@@ -55,6 +55,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/Eluruchandrika/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0812-rotate-string](https://github.com/Eluruchandrika/Leetcode/tree/master/0812-rotate-string) |
 | [0874-backspace-string-compare](https://github.com/Eluruchandrika/Leetcode/tree/master/0874-backspace-string-compare) |
+| [1508-longest-happy-prefix](https://github.com/Eluruchandrika/Leetcode/tree/master/1508-longest-happy-prefix) |
 ## Stack
 |  |
 | ------- |
@@ -89,4 +90,13 @@
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/Eluruchandrika/Leetcode/tree/master/0812-rotate-string) |
+| [1508-longest-happy-prefix](https://github.com/Eluruchandrika/Leetcode/tree/master/1508-longest-happy-prefix) |
+## Rolling Hash
+|  |
+| ------- |
+| [1508-longest-happy-prefix](https://github.com/Eluruchandrika/Leetcode/tree/master/1508-longest-happy-prefix) |
+## Hash Function
+|  |
+| ------- |
+| [1508-longest-happy-prefix](https://github.com/Eluruchandrika/Leetcode/tree/master/1508-longest-happy-prefix) |
 <!---LeetCode Topics End-->
