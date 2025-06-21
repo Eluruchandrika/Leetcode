@@ -8,6 +8,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Eluruchandrika/Leetcode/tree/master/0007-reverse-integer) |
 | [0067-add-binary](https://github.com/Eluruchandrika/Leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Eluruchandrika/Leetcode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Eluruchandrika/Leetcode/tree/master/0231-power-of-two) |
