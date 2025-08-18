@@ -104,4 +104,8 @@
 |  |
 | ------- |
 | [1508-longest-happy-prefix](https://github.com/Eluruchandrika/Leetcode/tree/master/1508-longest-happy-prefix) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/Eluruchandrika/Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
