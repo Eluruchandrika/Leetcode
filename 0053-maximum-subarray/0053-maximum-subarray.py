@@ -1,13 +1,10 @@
 class Solution:
     def maxSubArray(self, nums):
-        curr = 0
+        curr = nums[0]
         maxVal = nums[0]
 
-        for i in nums:
-            if curr <0:
-                curr=0
-            curr+=i
-            if curr>maxVal:
-                maxVal = curr
+        for i in range(1,len(nums)):
+            curr=max(nums[i],curr+nums[i])
+            maxVal=max(maxVal,curr)
         return maxVal
         
