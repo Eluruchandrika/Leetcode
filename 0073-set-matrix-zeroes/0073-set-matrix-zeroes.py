@@ -1,15 +1,19 @@
-class Solution(object):
-    def setZeroes(self, matrix):
+class Solution:
+    def setZeroes(self, matrix: List[List[int]]) -> None:
+        """
+        Do not return anything, modify matrix in-place instead.
+        """
+        n=len(matrix)
+        m=len(matrix[0])
         rows=set()
-        cols=set()
-        for i in range(len(matrix)):
-            for j in range(len(matrix[i])):
-                if matrix[i][j] ==0:
+        col=set()
+
+        for i in range(n):
+            for j in range(m):
+                if matrix[i][j]==0:
                     rows.add(i)
-                    cols.add(j)
-        for i in range(len(matrix)):
-            for j in range(len(matrix[i])):
-                if i in rows:
-                    matrix[i][j]=0
-                elif j in cols:
+                    col.add(j)
+        for i in range(n):
+            for j in range(m):
+                if i in rows or j in col:
                     matrix[i][j]=0
