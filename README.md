@@ -17,6 +17,7 @@
 | [0342-power-of-four](https://github.com/Eluruchandrika/Leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Eluruchandrika/Leetcode/tree/master/0367-valid-perfect-square) |
 | [1013-fibonacci-number](https://github.com/Eluruchandrika/Leetcode/tree/master/1013-fibonacci-number) |
+| [2032-largest-odd-number-in-string](https://github.com/Eluruchandrika/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -62,6 +63,7 @@
 | [0812-rotate-string](https://github.com/Eluruchandrika/Leetcode/tree/master/0812-rotate-string) |
 | [0874-backspace-string-compare](https://github.com/Eluruchandrika/Leetcode/tree/master/0874-backspace-string-compare) |
 | [1508-longest-happy-prefix](https://github.com/Eluruchandrika/Leetcode/tree/master/1508-longest-happy-prefix) |
+| [2032-largest-odd-number-in-string](https://github.com/Eluruchandrika/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Stack
 |  |
 | ------- |
@@ -122,4 +124,8 @@
 | [1801-average-time-of-process-per-machine](https://github.com/Eluruchandrika/Leetcode/tree/master/1801-average-time-of-process-per-machine) |
 | [1827-invalid-tweets](https://github.com/Eluruchandrika/Leetcode/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Eluruchandrika/Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
+## Greedy
+|  |
+| ------- |
+| [2032-largest-odd-number-in-string](https://github.com/Eluruchandrika/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
