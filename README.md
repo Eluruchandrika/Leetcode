@@ -10,6 +10,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/Eluruchandrika/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Eluruchandrika/Leetcode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Eluruchandrika/Leetcode/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/Eluruchandrika/Leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Eluruchandrika/Leetcode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Eluruchandrika/Leetcode/tree/master/0231-power-of-two) |
@@ -53,6 +54,7 @@
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Eluruchandrika/Leetcode/tree/master/0008-string-to-integer-atoi) |
+| [0013-roman-to-integer](https://github.com/Eluruchandrika/Leetcode/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Eluruchandrika/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/Eluruchandrika/Leetcode/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/Eluruchandrika/Leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -83,6 +85,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Eluruchandrika/Leetcode/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/Eluruchandrika/Leetcode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Eluruchandrika/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Eluruchandrika/Leetcode/tree/master/0451-sort-characters-by-frequency) |
