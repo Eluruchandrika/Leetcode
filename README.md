@@ -59,6 +59,7 @@
 | [0242-valid-anagram](https://github.com/Eluruchandrika/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Eluruchandrika/Leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Eluruchandrika/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/Eluruchandrika/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Eluruchandrika/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0812-rotate-string](https://github.com/Eluruchandrika/Leetcode/tree/master/0812-rotate-string) |
 | [0874-backspace-string-compare](https://github.com/Eluruchandrika/Leetcode/tree/master/0874-backspace-string-compare) |
@@ -82,10 +83,12 @@
 | ------- |
 | [0242-valid-anagram](https://github.com/Eluruchandrika/Leetcode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Eluruchandrika/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/Eluruchandrika/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 ## Sorting
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Eluruchandrika/Leetcode/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/Eluruchandrika/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 ## Queue
 |  |
 | ------- |
@@ -94,6 +97,7 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Eluruchandrika/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/Eluruchandrika/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 ## String Matching
 |  |
 | ------- |
@@ -128,4 +132,12 @@
 |  |
 | ------- |
 | [2032-largest-odd-number-in-string](https://github.com/Eluruchandrika/Leetcode/tree/master/2032-largest-odd-number-in-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Eluruchandrika/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Eluruchandrika/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
