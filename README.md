@@ -63,6 +63,7 @@
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Eluruchandrika/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/Eluruchandrika/Leetcode/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/Eluruchandrika/Leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Eluruchandrika/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/Eluruchandrika/Leetcode/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/Eluruchandrika/Leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -79,6 +80,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Eluruchandrika/Leetcode/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Eluruchandrika/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0874-backspace-string-compare](https://github.com/Eluruchandrika/Leetcode/tree/master/0874-backspace-string-compare) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Eluruchandrika/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
