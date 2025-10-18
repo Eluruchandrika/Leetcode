@@ -1,11 +1,9 @@
-class Solution(object):
+class Solution:
     def singleNumber(self, nums):
-        """
-        :type nums: List[int]
-        :rtype: int
-        """
-        xor=0
+        dic={}
         for i in nums:
-            xor=i^xor
-        return xor
+            dic[i]=dic.get(i,0)+1
+        for i,j in dic.items():
+            if j==1:
+                return i
         
