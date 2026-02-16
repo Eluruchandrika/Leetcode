@@ -80,6 +80,7 @@
 | [0874-backspace-string-compare](https://github.com/Eluruchandrika/Leetcode/tree/master/0874-backspace-string-compare) |
 | [1508-longest-happy-prefix](https://github.com/Eluruchandrika/Leetcode/tree/master/1508-longest-happy-prefix) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Eluruchandrika/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1796-second-largest-digit-in-a-string](https://github.com/Eluruchandrika/Leetcode/tree/master/1796-second-largest-digit-in-a-string) |
 | [2032-largest-odd-number-in-string](https://github.com/Eluruchandrika/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Stack
 |  |
@@ -107,6 +108,7 @@
 | [0242-valid-anagram](https://github.com/Eluruchandrika/Leetcode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Eluruchandrika/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Eluruchandrika/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [1796-second-largest-digit-in-a-string](https://github.com/Eluruchandrika/Leetcode/tree/master/1796-second-largest-digit-in-a-string) |
 ## Sorting
 |  |
 | ------- |
