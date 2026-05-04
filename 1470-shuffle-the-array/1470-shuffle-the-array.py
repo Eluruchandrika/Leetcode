@@ -1,12 +1,8 @@
 class Solution:
     def shuffle(self, nums, n):
         res=[]
-        i=0
-        j=n
-        while j < n*2:
+        for i in range(n):
             res.append(nums[i])
-            res.append(nums[j])
-            i=i+1
-            j=j+1
+            res.append(nums[i+n])
         return res
         
